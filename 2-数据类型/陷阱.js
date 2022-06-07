@@ -98,4 +98,4 @@ console.log(getResult())
 null == 0 // false
 '0' == false // true  ===> 转数字比较 0 == 0
 
-export {}
+
